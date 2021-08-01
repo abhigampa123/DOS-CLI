@@ -1,0 +1,10 @@
+schemaVersion: 0
+schemaType: DataMart
+structure: Generic
+name: ETLPipelineSupport
+type: Other
+description: 
+contentId: 8d01568c-49aa-4c77-87f4-2fee83b443ef
+version: 
+objectRelationships: []
+attributeValues: []

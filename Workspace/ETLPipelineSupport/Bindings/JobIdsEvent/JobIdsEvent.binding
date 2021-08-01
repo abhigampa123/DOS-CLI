@@ -1,0 +1,15 @@
+destinationEntity:
+  destinationName: 
+  destinationType: local
+schemaVersion: 0
+schemaType: Binding
+name: JobIdsEvent
+description: 
+contentId: ea108920-9705-4731-af16-9d3685d186ab
+sourceDataStore: 
+type: SQL
+status: In Development
+loadType: Full
+script: !script JobIdsEvent.sql
+objectRelationships: []
+attributeValues: []
