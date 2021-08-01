@@ -1,5 +1,5 @@
 destinationEntity:
-  destinationName: JobDefinitionEvent.entity
+  destinationName: JobDefinitionEvent.entity123
   destinationType: local
 schemaVersion: 0
 schemaType: Binding
